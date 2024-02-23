@@ -1,0 +1,16 @@
+.cardWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}
+
+.desclaimerParagraph{
+    color:#c4c5c598;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 12px;
+} 
+.actionButtonWrapper{
+    margin-top:40px ;}       

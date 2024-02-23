@@ -1,0 +1,44 @@
+
+
+.buttonWrapper{
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+}
+
+
+.tabButtons{
+        width: 60px;
+        height: 60px;
+        background: #262626 ;
+        border-radius: 20px;
+        border: none;
+        outline: none;
+        color: #ffffff;
+        cursor: pointer;
+        
+}
+
+.tabButtons:last-child{
+        margin-left: 20px;
+}
+
+.active{
+        background: #0077ff;
+}
+
+.tabButtons:hover {
+        background: #0099dd;
+}
+
+.actionButtonWrapper{
+        margin-top:40px ;}
+
+.desclaimerParagraph{
+        color:#c4c5c598;
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 10px;
+        font-size: 12px;
+}        

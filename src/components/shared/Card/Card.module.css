@@ -1,0 +1,25 @@
+.card{
+    width: 500px;
+    max-width: 90%;
+    background:#1d1d1d ;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .headingWrapper{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 25px;
+    }
+    
+    .heading{
+        margin-left: 15px;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    
